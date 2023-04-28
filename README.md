@@ -36,6 +36,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `Structure`
 
+https://github.com/MoonTechnolabs/ReactJS-Code-Standard-Demo/blob/main/readmeAssets/structure.png
+
 ### API
 This folder contain APIs boilerplate which is reusable for entire project for example
 const apiRes = await ApiService(`${apiList.API_NAME}`, 'GET')
