@@ -64,5 +64,3 @@ For managing data we use redux that make easy to manage data , state
 index.js - It's a main app file.
 
 package.json - This is the entry level file of the  app and which contains all the basic and dependency version related information.
-
-https://github.com/MoonTechnolabs/IOS-Swift-Code-Standard-Demo/blob/main/readmeAssets/file.png 
